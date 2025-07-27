@@ -163,9 +163,9 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             "question": "Select the valid reasons for using simulation)",
             "answers": [
-                "Relationship between the variables is nonlinear",
-                "Optimized solutions are obtained",
-                "Conduct experiments without disrupting the real system",
+                "A- Relationship between the variables is nonlinear",
+                "B- Optimized solutions are obtained",
+                "C- Conduct experiments without disrupting the real system",
                 "Answers A and C"
             ],
             "correctAnswer": 3
@@ -193,7 +193,7 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             "question": "Which of the following statistical methods are commonly used to analyze simulation results?",
             "answers": [
-                "Regression analysis",
+                "(A) Regression analysis",
                 "(B) Secondary Data only",
                 "(C) Both Primary and Secondary Data",
                 "(D) None of the above"
@@ -443,8 +443,8 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             "question": "System is defined as:",
             "answers": [
-                "aggregation or assemblage of objects",
-                "Definition of Object",
+                "A- aggregation or assemblage of objects",
+                "B- Definition of Object",
                 "B bot not A",
                 "none of the above"
             ],
@@ -713,8 +713,8 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             "question": "Why is it important to know about probability functions?",
             "answers": [
-                "Probability provides information about the likelihood that something will happen)",
-                "used to model timings and behaviour of event)",
+                "A- Probability provides information about the likelihood that something will happen)",
+                "B- used to model timings and behaviour of event)",
                 "B but not A",
                 "none of the above"
             ],
@@ -723,8 +723,8 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             "question": "Why random numbers used in simulation?",
             "answers": [
-                "Random numbers are used to model timings and behaviour of event)",
-                "used to model timings and behaviour of event)",
+                "A- Random numbers are used to model timings and behaviour of event)",
+                "B- used to model timings and behaviour of event)",
                 "A but not B",
                 "none of above"
             ],
@@ -733,9 +733,9 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             "question": "Calibration is:",
             "answers": [
-                "is the iterative process of comparing the model with real system",
-                "revising the model if necessary",
-                "comparing again, until a model is accepted (validated))",
+                "A- is the iterative process of comparing the model with real system",
+                "B- revising the model if necessary",
+                "C- comparing again, until a model is accepted (validated))",
                 "B but not C"
             ],
             "correctAnswer": 0
@@ -743,8 +743,8 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             "question": "What are the types of simulation with regard to output analysis?",
             "answers": [
-                "Finite-Horizon (Terminating)",
-                "Steady-State simulations)",
+                "A- Finite-Horizon (Terminating)",
+                "B- Steady-State simulations)",
                 "A but not B",
                 "A and B"
             ],
@@ -763,8 +763,8 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             "question": "Which model allows system state to change any time?",
             "answers": [
-                "continuous-event model",
-                "Commercial Model",
+                "A- continuous-event model",
+                "B- Commercial Model",
                 "A and B",
                 "All of the above"
             ],
@@ -783,8 +783,8 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             "question": "input modelling is:",
             "answers": [
-                "the practice of selecting probability distributions to represent such random input processes",
-                "the practice of selecting probability distributions to represent such random output processes",
+                "A- the practice of selecting probability distributions to represent such random input processes",
+                "B- the practice of selecting probability distributions to represent such random output processes",
                 "both a and B",
                 "all of the above"
             ],
