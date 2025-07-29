@@ -110,7 +110,6 @@ document.addEventListener('DOMContentLoaded', function () {
         ],
         "correctAnswer": 2
     },
-];
     {
         "question": "What is the goal of algorithm analysis?",
         "answers": [
